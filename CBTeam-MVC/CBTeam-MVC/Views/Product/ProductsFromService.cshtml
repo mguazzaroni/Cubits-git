@@ -1,0 +1,12 @@
+﻿@model List<Product>;
+
+<h1>Productos desde Servicio WCF</h1>
+
+@foreach (var item in Model)
+{
+    <h3>Nombre: @item.Name</h3>
+    <h3>Descripcion: @item.Description</h3>
+    <h3>Precio: @item.Price</h3>
+    <h3>Stock: @item.Stock</h3>
+    <br />
+}

@@ -1,0 +1,7 @@
+C:\dev\CBTeam\CB-Team-WCF-Service\CB.Team.WCF.Service\bin\Debug\CB.Team.WCF.Service.dll.config
+C:\dev\CBTeam\CB-Team-WCF-Service\CB.Team.WCF.Service\bin\Debug\CB.Team.WCF.Service.dll
+C:\dev\CBTeam\CB-Team-WCF-Service\CB.Team.WCF.Service\bin\Debug\CB.Team.WCF.Service.pdb
+C:\dev\CBTeam\CB-Team-WCF-Service\CB.Team.WCF.Service\obj\Debug\CB.Team.WCF.Service.csproj.AssemblyReference.cache
+C:\dev\CBTeam\CB-Team-WCF-Service\CB.Team.WCF.Service\obj\Debug\CB.Team.WCF.Service.csproj.CoreCompileInputs.cache
+C:\dev\CBTeam\CB-Team-WCF-Service\CB.Team.WCF.Service\obj\Debug\CB.Team.WCF.Service.dll
+C:\dev\CBTeam\CB-Team-WCF-Service\CB.Team.WCF.Service\obj\Debug\CB.Team.WCF.Service.pdb
